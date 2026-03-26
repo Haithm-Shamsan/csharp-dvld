@@ -1,72 +1,40 @@
 ﻿# DVLD
 
-## Overview
-This repository was organized and uploaded from a local project workspace.
+## About This Project
+I built this project as part of my learning and practice journey. It focuses on desktop UI interactions with forms and events while improving how I organize code and structure features.
 
-## Repository Stats
-- GitHub repo: Haithm-Shamsan/csharp-dvld
-- Scan date: 2026-03-26
-- Total tracked files scanned: 155
-- Text files fully read: 143
-- Binary or non-text files: 12
-- Approximate text line count: 66055
+## What I Implemented
+- I implemented desktop UI interactions with forms and events.
+- I organized the project to keep logic clearer and easier to maintain.
 
-## File Types
-- .cs: 89 files
-- .resx: 44 files
-- .dll: 8 files
-- .png: 4 files
-- .config: 2 files
-- .settings: 1 files
-- .txt: 1 files
-- .nupkg: 1 files
+## Tech Stack
+- C# / .NET
 
-## Getting Started
-- Open solution in Visual Studio and run from IDE
-- Or build with .NET CLI: dotnet build
+## Project Structure Highlights
+- README.md
+- Program.cs
+- People Forms/People Controls/ctrPersonCard.Designer.cs
+- People Forms/People Controls/ctrPersonCard.cs
+- People Forms/People Controls/ctrPersonCard.resx
+- People Forms/People Controls/ctrPersonCardWithFilter.Designer.cs
+- People Forms/People Controls/ctrPersonCardWithFilter.cs
+- People Forms/People Controls/ctrPersonCardWithFilter.resx
+- People Forms/Person Details.Designer.cs
+- People Forms/Person Details.cs
+- People Forms/Person Details.resx
+- People Forms/frmEditAddNewPerson.Designer.cs
 
-## Project File Sample
-- .gitignore
-- App.config
-- Application Tests/frmManageTestsTypes.Designer.cs
-- Application Tests/frmManageTestsTypes.cs
-- Application Tests/frmManageTestsTypes.resx
-- Application Tests/frmUpdateTest.Designer.cs
-- Application Tests/frmUpdateTest.cs
-- Application Tests/frmUpdateTest.resx
-- Application Type/frmManageApplicationTypes.Designer.cs
-- Application Type/frmManageApplicationTypes.cs
-- Application Type/frmManageApplicationTypes.resx
-- Application Type/frmUpdateApplicationType.Designer.cs
-- Application Type/frmUpdateApplicationType.cs
-- Application Type/frmUpdateApplicationType.resx
-- Applications/Detain License/frmDetainLicense.Designer.cs
-- Applications/Detain License/frmDetainLicense.cs
-- Applications/Detain License/frmDetainLicense.resx
-- Applications/Detain License/frmReleaceDetainLicense.Designer.cs
-- Applications/Detain License/frmReleaceDetainLicense.cs
-- Applications/Detain License/frmReleaceDetainLicense.resx
-- Applications/International License/ctrInternationalLicense.Designer.cs
-- Applications/International License/ctrInternationalLicense.cs
-- Applications/International License/ctrInternationalLicense.resx
-- Applications/International License/frmAddNewInterNationalDrivingLicense.Designer.cs
-- Applications/International License/frmAddNewInterNationalDrivingLicense.cs
-- Applications/International License/frmAddNewInterNationalDrivingLicense.resx
-- Applications/International License/frmInternationalLicensList.Designer.cs
-- Applications/International License/frmInternationalLicensList.cs
-- Applications/International License/frmInternationalLicensList.resx
-- Applications/International License/frmInternationalLicense.Designer.cs
-- Applications/International License/frmInternationalLicense.cs
-- Applications/International License/frmInternationalLicense.resx
-- Applications/Local Driving License Application/ctrLocalApplicationInfo.Designer.cs
-- Applications/Local Driving License Application/ctrLocalApplicationInfo.cs
-- Applications/Local Driving License Application/ctrLocalApplicationInfo.resx
-- Applications/Local Driving License Application/frmLocalDrivingLicenseAppInfo.Designer.cs
-- Applications/Local Driving License Application/frmLocalDrivingLicenseAppInfo.cs
-- Applications/Local Driving License Application/frmLocalDrivingLicenseAppInfo.resx
-- Applications/Local Driving License Application/frmManageLicenseOrders.Designer.cs
-- Applications/Local Driving License Application/frmManageLicenseOrders.cs
+## How To Run
+1. Open the `.sln` file in Visual Studio.
+2. Restore/build the solution.
+3. Run the startup project from Visual Studio.
 
-## Notes
-- This README was auto-generated after scanning repository files.
-- You can customize this file with project purpose, screenshots, and usage details.
+## What I Learned
+- I practiced building features end-to-end, from structure to execution.
+- I improved code organization and readability choices.
+- I strengthened my debugging and iteration workflow.
+
+## Next Improvements
+- Add deeper documentation for each module and workflow.
+- Add tests for the most critical flows.
+- Refine UX/UI and error handling where needed.
